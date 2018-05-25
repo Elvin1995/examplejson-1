@@ -1,0 +1,47 @@
+{
+  "receivers": [
+    {
+      "id": 1,
+      "name": "Jason Oner",
+      "cardnumber": "Card ****1563",
+      "url": "https://randomuser.me/api/portraits/men/40.jpg",
+      "flagurl": "https://cdn1.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Azerbaijan_-_Circle-512.png",
+      "description": "Travel & Transport",
+      "ammount": "49.49",
+      "cashback": "49.49"
+    },
+    {
+      "id": 2,
+      "name": "Ranee Carlson",
+      "cardnumber": "Card ****1563",
+      "url": "https://randomuser.me/api/portraits/men/36.jpg",
+      "flagurl": "https://cdn1.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Turkey_-_Circle-512.png",
+      "description": "Ref: Wages",
+      "ammount": "2,200.00",
+      "cashback": "0.28"
+    },
+    {
+      "id": 3,
+      "name": "Cindy Baker",
+      "cardnumber": "Card ****1563",
+      "url": "https://randomuser.me/api/portraits/men/38.jpg",
+      "flagurl": "https://cdn1.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_United_States_-_Circle-512.png",
+      "description": "Groceries",
+      "ammount": "28.98",
+      "cashback": "0.28"
+    },
+    {
+      "id": 4,
+      "name": "Ali Connors",
+      "cardnumber": "Card ****1563",
+      "url": "https://randomuser.me/api/portraits/men/39.jpg",
+      "flagurl": "https://cdn1.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_United_Kingdom_-_Circle-512.png",
+      "description": "Travel & Transport Groceries",
+      "ammount": "49.49",
+      "cashback": "49.49"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
