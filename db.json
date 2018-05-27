@@ -35,32 +35,32 @@
       "name": "Jason Oner",
       "url": "https://randomuser.me/api/portraits/men/40.jpg",
       "description": "Travel & Transport",
-      "ammount": "49.49",
-      "cashback": "49.49"
+      "ammount": "£49.49",
+      "cashback": "£49.49"
     },
     {
       "id": 2,
       "name": "Ranee Carlson",
       "url": "https://randomuser.me/api/portraits/men/36.jpg",
       "description": "Ref: Wages",
-      "ammount": "2,200.00",
-      "cashback": "0.28"
+      "ammount": "£2,200.00",
+      "cashback": "£0.28"
     },
     {
       "id": 3,
       "name": "Cindy Baker",
       "url": "https://randomuser.me/api/portraits/men/38.jpg",
       "description": "Groceries",
-      "ammount": "28.98",
-      "cashback": "0.28"
+      "ammount": "£28.98",
+      "cashback": "£0.28"
     },
     {
       "id": 4,
       "name": "Ali Connors",
       "url": "https://randomuser.me/api/portraits/men/39.jpg",
       "description": "Travel & Transport Groceries",
-      "ammount": "49.49",
-      "cashback": "49.49"
+      "ammount": "£49.49",
+      "cashback": "£49.49"
     }
   ],
   "profile": {
