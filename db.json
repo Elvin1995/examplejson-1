@@ -36,7 +36,7 @@
       "url": "https://randomuser.me/api/portraits/men/40.jpg",
       "description": "Travel & Transport",
       "ammount": "£49.49",
-      "cashback": "£49.49"
+      "cashback": ""
     },
     {
       "id": 2,
@@ -44,7 +44,7 @@
       "url": "https://randomuser.me/api/portraits/men/36.jpg",
       "description": "Ref: Wages",
       "ammount": "£2,200.00",
-      "cashback": "£0.28"
+      "cashback": ""
     },
     {
       "id": 3,
