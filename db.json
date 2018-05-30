@@ -63,17 +63,6 @@
       "cashback": "£49.49"
     }
   ],
-  "privacy": [
-    {
-      "moneytransfertandc": "textformoneytransfertandc",
-    },
-    {
-      "opalcardtandc": "textforopalcardtandc",
-    },
-    {
-      "moneytransferprivacypolicy": "textformoneytransferprivacypolicy",
-    }
-  ],
   "profile": {
     "name": "typicode"
   }
