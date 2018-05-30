@@ -63,6 +63,17 @@
       "cashback": "£49.49"
     }
   ],
+  "privacy": [
+    {
+      "atc": "Jason Oner",
+    },
+    {
+      "btc": "Ranee Carlson",
+    },
+    {
+      "ctc": "Cindy Baker",
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
