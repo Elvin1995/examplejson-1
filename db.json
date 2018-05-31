@@ -63,6 +63,20 @@
       "cashback": "£49.49"
     }
   ],
+  "privacy": [
+    {
+      "id": 1,
+      "name": "Jason Oner"
+    },
+    {
+      "id": 2,
+      "name": "Ranee Carlson"
+    },
+    {
+      "id": 3,
+      "name": "Cindy Baker"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
